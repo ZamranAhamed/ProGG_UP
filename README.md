@@ -7,17 +7,16 @@ Current phase: **HTML + CSS only** (foundation first). JavaScript and backend wi
 
 <p align="center">
   <a href="https://github.com/ZamranAhamed/ProGG_UP/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/ZamranAhamed/ProGG_UP?style=flat">
+    <img alt="Stars" src="https://img.shields.io/github/stars/zamranahamed/progg_up?style=flat&cacheSeconds=60">
   </a>
 
   <a href="https://github.com/ZamranAhamed/ProGG_UP/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/ZamranAhamed/ProGG_UP?style=flat">
+    <img alt="Issues" src="https://img.shields.io/github/issues/zamranahamed/progg_up?style=flat&cacheSeconds=60">
   </a>
 
   <img alt="Status" src="https://img.shields.io/badge/status-active-brightgreen">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
-
 
 ---
 
