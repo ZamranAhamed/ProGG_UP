@@ -1,0 +1,29 @@
+body {
+  font-family: Roboto, Arial;
+  margin: 0;
+  background: url('/Images/Login_background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h3 {
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #1A1B6E;
+  margin: 0;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+}

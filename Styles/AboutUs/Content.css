@@ -1,0 +1,80 @@
+.body-aboutus {
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #EAF8EA;
+}
+
+.body-container01 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.body-whatwedo {
+  flex: 1;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #ECECFA;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.body-whatwedo-points {
+  line-height: 30px;
+}
+
+.body-whyproggup {
+  flex: 1;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #ECECFA;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.body-whyproggup-points {
+  line-height: 30px;
+}
+
+.body-container02 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.body-ourvision {
+  flex: 1;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #EAF8EA;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.body-joinus {
+  flex: 1;
+  border: 1px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #EAF8EA;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.body-joinus button {
+  padding: 15px 30px;
+  font-size: 18px;
+  color: white;
+  background-color: #1A1B6E;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+.body-joinus button:hover {
+  background-color: #232591;
+  border: 0 solid darkblue;
+}

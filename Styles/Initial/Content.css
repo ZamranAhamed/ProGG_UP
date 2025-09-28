@@ -1,0 +1,46 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #1F2430;
+  background-color: #F3F6FB; /* Light background color */
+}
+
+.section h1 {
+  margin-top: 180px;
+  font-size: 50px;
+  margin-bottom: 0;
+}
+
+.font-navy-blue {
+  color: #1A1B6E;
+  font-size: 60px;
+}
+
+.font-light-green {
+  color: #4BCB43;
+}
+
+.section p {
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.section button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: white;
+  background-color: #1A1B6E;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 185px;
+  cursor: pointer;
+}
+
+.section button:hover {
+  background-color: #232591;
+  border: 0 solid darkblue;
+}
