@@ -1,0 +1,27 @@
+nav {
+  width: 150px;
+  /* border: 1px solid red; */
+}
+
+nav div div{
+  width: 150px;
+  height: 109.5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+  border: 1px solid rgb(255, 255, 255);
+}
+
+nav div div:hover{
+  background-color: azure;
+  border: 1px solid rgb(220, 220, 220);
+  box-shadow: 1px 1px 20px 5px rgb(220, 220, 220);
+}
+
+nav img{
+  width: 50px;
+  height: 50px;
+}
